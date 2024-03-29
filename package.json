@@ -1,0 +1,24 @@
+{
+  "name": "sweeney",
+  "publisher": "owozsh",
+  "displayName": "sweeney",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/owozsh/yogokai-vscode",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sweeney",
+        "uiTheme": "vs-dark",
+        "path": "./out/sweeney.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
