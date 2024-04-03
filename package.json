@@ -3,8 +3,8 @@
   "publisher": "owozsh",
   "displayName": "sweeney",
   "description": "",
-  "version": "0.0.1",
-  "repository": "https://github.com/owozsh/yogokai-vscode",
+  "version": "0.3.0",
+  "repository": "https://github.com/owozsh/sweeney",
   "engines": {
     "vscode": "^1.65.0"
   },
