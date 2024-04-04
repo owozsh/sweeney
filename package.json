@@ -14,6 +14,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "sweeney_light",
+        "uiTheme": "vs",
+        "path": "./out/sweeney_light.json"
+      },
+      {
         "label": "sweeney",
         "uiTheme": "vs-dark",
         "path": "./out/sweeney.json"
